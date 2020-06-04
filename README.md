@@ -1,5 +1,5 @@
 # Sobre a aplicação
-Essa aplicação tem como base o evento _NextLevelWeek_ criado pela *Rocketseat* e dirigido por *Diego Fernandes*.
+Essa aplicação tem como base o evento _NextLevelWeek_ criado pela **Rocketseat** e dirigido por **Diego Fernandes**.
 
 O projeto principal a ser desenvolvido é o _ecoleta_, uma aplicação web e mobile que servirá de conexão entre entidades de coleta e entidades que necessitam deste serviço.
 
@@ -19,3 +19,6 @@ O projeto principal a ser desenvolvido é o _ecoleta_, uma aplicação web e mob
 - BD - SQLite usando _Knex_
 - Utilização de _migrations_ para a manipulção do BD
 - Utilização de _seeds_ para a inserção padrão de alguns registros no BD
+
+## Esquema lógico BD
+![image](https://user-images.githubusercontent.com/40447101/83712885-238d6780-a5fd-11ea-8694-7568bd7ce920.png)
